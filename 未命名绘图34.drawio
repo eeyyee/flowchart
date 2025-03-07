@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="-iVZTtbWUVaVbtiTXD6w">
     <mxGraphModel dx="1434" dy="1161" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="lQoX-cqVpCicNJ79OJqL-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;行记录&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lQoX-cqVpCicNJ79OJqL-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;undo&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lQoX-cqVpCicNJ79OJqL-48" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;undo&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="-50" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lQoX-cqVpCicNJ79OJqL-59" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -270,6 +270,18 @@
         </mxCell>
         <mxCell id="lQoX-cqVpCicNJ79OJqL-113" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;txn_1 可见&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;结果：Deleted&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="880" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gDmE1aM-grgXg_o_KUt--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gDmE1aM-grgXg_o_KUt--1" target="lQoX-cqVpCicNJ79OJqL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDmE1aM-grgXg_o_KUt--1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;undo header&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="957" y="37" width="108" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gDmE1aM-grgXg_o_KUt--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gDmE1aM-grgXg_o_KUt--2" target="lQoX-cqVpCicNJ79OJqL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDmE1aM-grgXg_o_KUt--2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;undo log&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="957" y="117" width="108" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
