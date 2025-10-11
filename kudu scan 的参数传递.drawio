@@ -86,6 +86,11 @@
         <mxCell id="fiFlDFB3sNAuTkQwED0y-34" style="edgeStyle=none;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="fiFlDFB3sNAuTkQwED0y-30" source="fiFlDFB3sNAuTkQwED0y-33" target="fiFlDFB3sNAuTkQwED0y-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fiFlDFB3sNAuTkQwED0y-35" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 13px;&quot;&gt;scanner::data_&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="fiFlDFB3sNAuTkQwED0y-34">
+          <mxGeometry x="-0.4265" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fiFlDFB3sNAuTkQwED0y-33" value="KuduScanner::Open &lt;br&gt;(outer)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="fiFlDFB3sNAuTkQwED0y-30">
           <mxGeometry x="633.5" y="50" width="210" height="70" as="geometry" />
         </mxCell>
