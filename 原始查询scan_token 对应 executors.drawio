@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="第 1 页" id="rdelnF8aW0eFgN7YPz_8">
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YxH1Y8ABpuJ5_ag_5vpT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 1" vertex="1">
+          <mxGeometry height="40" width="70" x="95" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 1" vertex="1">
+          <mxGeometry height="60" width="80" x="90" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 2" vertex="1">
+          <mxGeometry height="60" width="80" x="180" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 3" vertex="1">
+          <mxGeometry height="60" width="80" x="270" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-5" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 4" vertex="1">
+          <mxGeometry height="60" width="80" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 5" vertex="1">
+          <mxGeometry height="60" width="80" x="450" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-7" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 6" vertex="1">
+          <mxGeometry height="60" width="80" x="540" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 7" vertex="1">
+          <mxGeometry height="60" width="80" x="630" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 8" vertex="1">
+          <mxGeometry height="60" width="80" x="720" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 9" vertex="1">
+          <mxGeometry height="60" width="80" x="810" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-11" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Tserver 10" vertex="1">
+          <mxGeometry height="60" width="80" x="900" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 2" vertex="1">
+          <mxGeometry height="40" width="70" x="185" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 3" vertex="1">
+          <mxGeometry height="40" width="70" x="275" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 4" vertex="1">
+          <mxGeometry height="40" width="70" x="365" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 5" vertex="1">
+          <mxGeometry height="40" width="70" x="455" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 6" vertex="1">
+          <mxGeometry height="40" width="70" x="545" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 7" vertex="1">
+          <mxGeometry height="40" width="70" x="635" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 8" vertex="1">
+          <mxGeometry height="40" width="70" x="725" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 9" vertex="1">
+          <mxGeometry height="40" width="70" x="815" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 10" vertex="1">
+          <mxGeometry height="40" width="70" x="905" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 1" vertex="1">
+          <mxGeometry height="40" width="70" x="95" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 2" vertex="1">
+          <mxGeometry height="40" width="70" x="185" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 3" vertex="1">
+          <mxGeometry height="40" width="70" x="275" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 4" vertex="1">
+          <mxGeometry height="40" width="70" x="365" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 5" vertex="1">
+          <mxGeometry height="40" width="70" x="455" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 6" vertex="1">
+          <mxGeometry height="40" width="70" x="545" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 7" vertex="1">
+          <mxGeometry height="40" width="70" x="635" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 8" vertex="1">
+          <mxGeometry height="40" width="70" x="725" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 9" vertex="1">
+          <mxGeometry height="40" width="70" x="815" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="3fODckwJA3TpINkixCMN-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Local Impala 10" vertex="1">
+          <mxGeometry height="40" width="70" x="905" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
