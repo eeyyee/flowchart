@@ -1,17 +1,82 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="phrNNtdoQGB_kTD-U0aM">
-    <mxGraphModel dx="1152" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="1503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WR0-4oQNlYqWBNVXa_bR-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ecommerce （电商域）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="210" height="190" as="geometry" />
+        <mxCell id="WR0-4oQNlYqWBNVXa_bR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="755" width="307" x="-37" y="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="WR0-4oQNlYqWBNVXa_bR-2" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;yucan（&lt;/span&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;禹璨域）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="210" height="190" as="geometry" />
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ecommerce domain&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="151" x="-19" y="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="WR0-4oQNlYqWBNVXa_bR-3" value="PNC网络控制" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="50" height="340" as="geometry" />
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="cstoredb-metaserver" vertex="1">
+          <mxGeometry height="57" width="135" x="38" y="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-12" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="378.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="cstoredb-metastore" vertex="1">
+          <mxGeometry height="57" width="135" x="38" y="204.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-13" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.016;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="410.05940594059416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="alfred-cstoredb-api" vertex="1">
+          <mxGeometry height="57" width="135" x="38" y="305.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-14" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.018;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="wukong-spark-app" vertex="1">
+          <mxGeometry height="57" width="135" x="38" y="406.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-15" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="445.1542288557214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="&lt;span class=&quot;pre-text pre-text-normal win32&quot; data-v-165e94c6=&quot;&quot;&gt;flink-wukong-charles-application&lt;/span&gt;" vertex="1">
+          <mxGeometry height="57" width="135" x="41" y="507.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-16" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.019;entryY=0.715;entryDx=0;entryDy=0;entryPerimeter=0;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674" y="462.74129353233843" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="AM" vertex="1">
+          <mxGeometry height="57" width="135" x="41" y="608.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-17" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="688" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;glass=0;gradientColor=none;shadow=0;" value="cstoredb-compute-stats service" vertex="1">
+          <mxGeometry height="57" width="135" x="41" y="709.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-11" edge="1" parent="1" source="x6M6vXLFv9lEQleaEkyT-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" target="x6M6vXLFv9lEQleaEkyT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="674.6300000000001" y="360.6400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WR0-4oQNlYqWBNVXa_bR-3" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;PNC网络控制&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="904" width="67" x="441" y="-26" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-19" connectable="0" parent="1" style="group;fillColor=#b1ddf0;strokeColor=#10739e;rounded=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="166" width="247" x="688" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-18" parent="x6M6vXLFv9lEQleaEkyT-19" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CStoreDB yucan service&lt;/font&gt;" vertex="1">
+          <mxGeometry height="166" width="247" as="geometry" />
+        </mxCell>
+        <mxCell id="x6M6vXLFv9lEQleaEkyT-1" parent="x6M6vXLFv9lEQleaEkyT-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;dashed=1;dashPattern=8 8;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;yucan domain&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="97" x="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
