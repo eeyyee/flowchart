@@ -287,7 +287,7 @@
         <mxCell id="UGMO2s8zeLom9RgKFF4r-128" edge="1" parent="1" source="UGMO2s8zeLom9RgKFF4r-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UGMO2s8zeLom9RgKFF4r-127" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UGMO2s8zeLom9RgKFF4r-131" connectable="0" parent="UGMO2s8zeLom9RgKFF4r-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=14;" value="ByRecoverJob" vertex="1">
+        <mxCell id="UGMO2s8zeLom9RgKFF4r-131" connectable="0" parent="UGMO2s8zeLom9RgKFF4r-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=14;" value="ByRecoverJob&lt;div&gt;(TServer、Impalad）&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1327" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -295,7 +295,7 @@
         <mxCell id="UGMO2s8zeLom9RgKFF4r-130" edge="1" parent="1" source="UGMO2s8zeLom9RgKFF4r-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UGMO2s8zeLom9RgKFF4r-129" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UGMO2s8zeLom9RgKFF4r-132" connectable="0" parent="UGMO2s8zeLom9RgKFF4r-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=14;" value="Default" vertex="1">
+        <mxCell id="UGMO2s8zeLom9RgKFF4r-132" connectable="0" parent="UGMO2s8zeLom9RgKFF4r-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=14;" value="Default&lt;div&gt;（Master、statestore）&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1613" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
